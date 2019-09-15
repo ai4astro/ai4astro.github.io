@@ -1,0 +1,19 @@
+# Site settings
+title: "CSC2019 - Introduction to Machine Learning"
+email: anna.scaife@manchester.ac.uk
+description: "CERN School of Computing 2019: Introduction to Machine Learning."
+baseurl: ""
+url: "http://as595.github.io"
+twitter_username: radastrat
+github_username:  as595
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
