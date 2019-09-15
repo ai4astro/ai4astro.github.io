@@ -1,9 +1,9 @@
 # Site settings
-title: "CSC2019 - Introduction to Machine Learning"
+title: "AI4Astro"
 email: anna.scaife@manchester.ac.uk
-description: "CERN School of Computing 2019: Introduction to Machine Learning."
+description: "Lectures & Tutorials on AI for Astronomy"
 baseurl: ""
-url: "http://as595.github.io"
+url: "http://ai4astro.github.io"
 twitter_username: radastrat
 github_username:  as595
 
