@@ -1,0 +1,7 @@
+.image_responsive {width: 100%;height: auto;}
+.image_responsive_v {width: auto;height: 100%;}
+.conteneur_image_responsive_h {display: inline-block; position: relative !important;width: 100% !important;height: 0 !important; margin: 0!important; border:0!important}
+.conteneur_image_responsive_v {display: inline-block; position: relative !important;width: auto !important;height: 100% !important; margin: 0!important; border:0!important}
+/*.conteneur_image_responsive_h img {position: absolute;top: 0;left: 0;}*/
+.conteneur_image_responsive_v img {height: 100%; width: auto;}
+[data-responsive=background] {background-position: center center; background-size: cover; -ms-behavior: url(backgroundsize.min.htc); background-repeat: none;}
