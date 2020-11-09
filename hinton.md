@@ -3,10 +3,7 @@ layout: page
 permalink: /hinton/
 ---
 
-
-I'm guessing that most people are pretty comfortable with the concept of uncorrelated Gaussian noise. It's the most frequently assumed noise. Even if you don't realise it, you're probably assuming Gaussian noise.
-
-Quick check: Are you using a chi-squared test to fit your data? Yes? Well there you go.
+In their [classic paper](https://arxiv.org/pdf/1207.0580.pdf), *Improving neural networks by preventing co-adaptation of feature detectors*, Hinton, Srivastava, Krizhevsky, Sutskever and Salakhutdinov showed that using dropout in a feed-forward neural network improved performance significantly. In particular they produced this result for the MNIST dataset:
 
 - [Co-variate Gaussian Noise](#covariatenoise)
   - [Covariate Gaussian Noise in Python](#covarpython)
