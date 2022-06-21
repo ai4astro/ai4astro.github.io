@@ -53,7 +53,7 @@ networkx==2.3
 nibabel==2.4.0
 nltk==3.4.4
 notebook==5.7.4
-numpy==1.16.0
+numpy==1.22.0
 opencv-python==4.0.0.21
 opt-einsum==3.0.0
 packaging==19.1
